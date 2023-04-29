@@ -1,0 +1,8 @@
+# Variable files
+*.var
+
+# Pickled outputs from Python
+*.pickle
+
+# Probe basic configuration folder
+probe_basic/

@@ -1,0 +1,9 @@
+;Tool  Pocket Z Offset     Diameter     Remark
+T1     P1     Z+0.000000   D+8.000000   ;
+T2     P2     Z+0.000000   D+1.000000   ; Drill
+T3     P3     Z-32.212733  D+12.000000  ;
+T4     P4     Z+0.000000   D+1.200000   ; Endmill
+T5     P5     Z+0.000000   D+2.000000   ; Endmill
+T6     P6     Z+0.000000   D+8.000000   ; Endmill
+T99    P99    Z+61.800000  D+2.000000   ; Probe
+T100   P100   Z+32.600000  D+5.000000   ; Tool length sensor
