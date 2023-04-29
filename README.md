@@ -1,2 +1,1 @@
-# linuxcnc-config
-Configuration files for LinuxCNC
+# LinuxCnc configuration files
