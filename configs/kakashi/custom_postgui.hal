@@ -1,2 +1,4 @@
 # Include your custom_postgui HAL commands here
 # This file will not be overwritten when you run PNCconf again
+
+net touch_off_z halui.mdi-command-00 <= pyvcp.oTouchOffZButton
